@@ -1,0 +1,28 @@
+.column {
+  float: left;
+  padding: 10px;
+}
+* {
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+a {
+  font-size: 20px;
+  font-family: Georgia;
+}
+h3 {
+  border-bottom: 3px solid #009999;
+  padding-bottom: 8px;
+  width: 50px;
+  font-size: 18px;
+}
+button {
+  width: 176px;
+  height: 30px;
+  text-align: center;
+}
+label {
+  color: #00e6e6;
+  font-size: 15px;
+  word-spacing: 20px;
+}
